@@ -1,0 +1,6 @@
+1. purpose condition of a matrix 
+2. sensibility of 1.
+3. ill condn matrix and well condn matrix
+4. divergent and convergent
+5. numerical method of solving linear equations.
+6. gauss seidel and lu decomp
